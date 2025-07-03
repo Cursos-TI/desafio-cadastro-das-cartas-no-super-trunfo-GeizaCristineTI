@@ -2,6 +2,7 @@
 
 int main() {
     printf("Desafio das Cartas no SuperTrunfo\n");
+    printf("Novo Commit\n");
 
 }
 
